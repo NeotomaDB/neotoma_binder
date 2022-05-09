@@ -3,7 +3,7 @@
 # Neotoma Binder
 
 Repository Template to create a Binder with the Neotoma2 package.   
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sedv8808/neotoma_binder/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NeotomaDB/neotoma_binder/main?urlpath=rstudio)
 
 ## Contributors
 
