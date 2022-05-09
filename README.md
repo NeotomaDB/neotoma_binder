@@ -2,7 +2,7 @@
 [![NSF-1948926](https://img.shields.io/badge/NSF-1948926-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1948926)
 # Neotoma Binder
 
-Repository Template to create a Binder with the Neotoma2 package. 
+Repository Template to create a Binder with the Neotoma2 package.   
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sedv8808/neotoma_binder/main)
 
 ## Contributors
