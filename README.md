@@ -1,5 +1,10 @@
-[![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+<!-- badges: start -->
+
+[![lifecycle](https://img.shields.io/badge/lifecycle-stable-orange.svg)](https://www.tidyverse.org/lifecycle/#stable)
 [![NSF-1948926](https://img.shields.io/badge/NSF-1948926-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1948926)
+
+<!-- badges: end -->
+
 # Neotoma Binder
 
 Repository Template to create a Binder with the Neotoma2 package.   
